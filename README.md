@@ -12,3 +12,4 @@ This Python script simulates a sports tournament and estimates the likelihood of
 <li>Tracks the number of wins for each team across all simulations.</li>
 <li>Estimates and prints the probability (as a percentage) of each team winning the tournament.</li>
 </ul>
+ 
